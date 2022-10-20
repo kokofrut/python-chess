@@ -2,7 +2,15 @@
 Local chess game with full ruleset, made in Pygame.
 
 # installation:
-To run this program you should install pygame with "pip install pygame" and chess with "pip install chess"!!!!!
+
+To run this program you should install pygame 
+```bash
+pip install pygame
+```
+and chess with 
+```bash
+pip install chess
+```
 # controls:
 SPACE: flip board
 
